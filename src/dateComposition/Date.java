@@ -23,7 +23,7 @@ public class Date {
 		setYear(year);
 		setMonth(month);
 		setDay(day);
-		System.out.printf("The date from constructor is %s\n", this);
+//		System.out.printf("The date from constructor is %s\n", this);
 		
 	}
 	
